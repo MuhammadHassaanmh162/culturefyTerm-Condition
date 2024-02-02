@@ -1,1 +1,1 @@
-# culturefyTerm-Condition
+# culturefyTerms-Condition
